@@ -3,7 +3,7 @@ layout: page
 show_meta: true
 title: "What is Tourette Syndrome"
 subheadline: "Introduction"
-permalink: /whatis.html
+permalink: /whatis/
 teaser: "A video from TSAA"
 sidebar: right
 header:
