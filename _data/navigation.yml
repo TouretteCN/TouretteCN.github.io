@@ -3,7 +3,7 @@
   side: left
 
 - title: "Introduction"
-  url: "/introduction/"
+  url: "/whatis/"
   side: left
   dropdown:
   - title: "What is Tourette Syndrome?"

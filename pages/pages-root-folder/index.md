@@ -8,15 +8,16 @@ layout: frontpage
 header:
   image_fullwidth: header_index.jpg
 widget1:
-  title: "What is Tourette Syndrome?"
-  url: '/whatis/'
-  text: '<br>Tourette Syndrome is a neurological disorder, which most often begins between the ages of 2 and 21, and lasts throughout life. <br> <br>TS is NOT degenerative and people with TS can expect to live a normal life span. <br> <br>This video is intended for educational purposes.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="{{ site.urlimg }}introduction-video-500x339.jpg" width="500" height="339" alt=""/></a>'
-widget2:
   title: "什么是图雷特综合征?"
   url: '/whatis/'
   image: whatis-cn.png
-  text: '图雷特综合症<em>(Tourette Syndrome,TS)</em>是一种神经障碍，主要表现为不自主的重复性运动和发声。大多数患者于2-21岁之间首次发病并持续终生。TS不是退行性疾病，通常患者的症状较为轻微，并可以正常人的愿景生活。本页的视频和文档是对这一疾病的普及性介绍。'
+  text: '图雷特综合症<em>(Tourette Syndrome, TS)</em>是一种神经系统紊乱, 主要表现为不自主的重复性运动和发声。大多数患者于2-21岁之间首次发病，并伴随终生。TS不是退行性疾病，患者的症状通常较为轻微，能够以正常人的愿景生活。<br>本页的视频和文档是对这一疾病的普及性介绍。'
+
+widget2:
+  title: "What is Tourette Syndrome?"
+  url: '/whatis/'
+  text: '<br>Tourette Syndrome is a neurological disorder, which most often begins between the ages of 2 and 21, and lasts throughout life. <br> <br>TS is NOT degenerative and people with TS can expect to live a normal life span. <br> <br>This video is intended for educational purposes.'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/introduction-video-500x339.jpg" width="500" height="339" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
 #
